@@ -3244,7 +3244,7 @@
 
 			.wrapper.style2 input[type="checkbox"] + label,
 			.wrapper.style2 input[type="radio"] + label {
-				color: #f1bbd0;
+				color: #fff;
 			}
 
 				.wrapper.style2 input[type="checkbox"] + label:before,
