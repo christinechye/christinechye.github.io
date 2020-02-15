@@ -312,7 +312,7 @@ nav {
 	flex-direction: row;
 }
 
-ul{ 
+#menu ul{ 
 	display: flex;
 	list-style-type: none;
 	margin: 0;
@@ -321,7 +321,7 @@ ul{
 	flex-direction: row;
 }
 
-#menu a { 
+#menu a, #menu h1 { 
 	display: block;
 	width: 120px;
 	font-weight: bold;
