@@ -308,37 +308,41 @@ hr {
 #menu-wrapper
 {
 	background-color: rgb(172, 74, 87); /*primary color*/
+	justify-content: space-between;
+	flex-direction: row;
+
 }
 
-#menu {
+/* #menu {
 	height: 50px;
 	display: flex;
 	justify-content: space-between;
 	flex-direction: row;
 	overflow: hidden;
 	position: fixed;
-}
+} */
 
 #menu ul {
 	display: flex;
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
-	/* overflow: hidden; */
+	overflow: hidden;
 	flex-direction: row;
 	/* position: absolute; */
 }
 
-#menu li {
+/* #menu li {
 	display: flex;
 	justify-content: space-between;
 	flex-direction: row;
-}
+} */
 
 #menu a {
 	display: block;
+	width: 120px;
 	letter-spacing: 1px;
-	padding: 0px 40px;
+	padding: 0px 10px;
 	text-decoration: none;
 	text-align: center;
 	text-transform: uppercase;
