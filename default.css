@@ -294,6 +294,10 @@ hr {
 
 /** MENU */
 
+#name { 
+	font-size: 1.5em;
+}
+
 #menu-wrapper
 {
 	background-color: rgb(172, 74, 87); /*primary color*/
