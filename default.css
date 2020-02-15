@@ -217,11 +217,13 @@ hr {
 #footer-wrapper
 {
 	background: #0F0F0F;
+	overflow: hidden;
 }
 
 .container {
 	width: 1200px;
 	margin: 0px auto;
+	overflow: hidden;
 }
 
 .clearfix {
@@ -306,6 +308,7 @@ hr {
 #menu-wrapper
 {
 	background-color: rgb(172, 74, 87); /*primary color*/
+	overflow: hidden;
 }
 
 #menu {
