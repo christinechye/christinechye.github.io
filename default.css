@@ -556,7 +556,7 @@ hr {
 		font-size:1em;
 		color: #B1B1B1;
 	}
-	
+/* 	
 	#box1
 	{
 		float: left;
@@ -571,11 +571,12 @@ hr {
 		width: 354px;
 		margin-left: 24px;
 		padding-right: 30px;
-	}
+	} 
+*/
 	
 	#box3
 	{
-		float: right;
+		float: none;
 		width: 344px;
 		padding-left: 40px;
 	}
