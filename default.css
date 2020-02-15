@@ -329,11 +329,19 @@ hr {
 	color: #FFF;
 }
 
-#menu a:hover, #menu .current_page_item a {
+/* #menu a:hover, #menu .current_page_item a {
 	text-decoration: none;
 }
 
 #menu .current_page_item a {
+	background: #C0005F;
+} */
+
+#menu a:hover {
+	text-decoration: none;
+}
+
+#menu a {
 	background: #C0005F;
 }
 
@@ -350,7 +358,7 @@ hr {
 
 #content
 {
-	float: right;
+	float: left;
 	width: 790px;
 }
 
