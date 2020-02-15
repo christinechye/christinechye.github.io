@@ -325,6 +325,10 @@ nav {
 	font-size: 1.0em;
 }
 
+#menu h1 { 
+	padding-left: 10px;
+}
+
 #menu a, #menu h1 { 
 	display: block;
 	width: 120px;
