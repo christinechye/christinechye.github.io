@@ -312,7 +312,7 @@ nav {
 	flex-direction: row;
 }
 
-#menu ul{ 
+ul{ 
 	display: flex;
 	list-style-type: none;
 	margin: 0;
