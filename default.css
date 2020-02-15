@@ -325,9 +325,9 @@ nav {
 	font-size: 1.0em;
 }
 
-#menu h1 { 
+/* #menu h1 { 
 	padding-left: 10px;
-}
+} */
 
 #menu a, #menu h1 { 
 	display: block;
@@ -340,6 +340,7 @@ nav {
 	line-height: 50px;
 	border: none;
 	justify-content: space-between;
+	padding: 10px;
 }
 
 #menu a:hover { 
