@@ -300,8 +300,11 @@ hr {
 }
 
 #menu {
-	overflow: hidden;
+	/* overflow: hidden; */
 	height: 100px;
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row;
 }
 
 #menu ul {
