@@ -308,6 +308,7 @@ hr {
 #menu-wrapper
 {
 	background-color: rgb(172, 74, 87); /*primary color*/
+	display: flex;
 	justify-content: space-between;
 	flex-direction: row;
 
