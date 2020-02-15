@@ -392,9 +392,9 @@ nav {
 	} */
 
 	#sidebar ul { 
-		margin: 0;
+		margin: 0 0 2em 0;
 		padding: 0;
-		list-style-type: none;
+		list-style-type: disc;
 	}
 
 	#sidebar a { 
