@@ -326,7 +326,7 @@ hr {
 	padding: 0;
 	/* overflow: hidden; */
 	flex-direction: row;
-	position: absolute;
+	/* position: absolute; */
 }
 
 #menu li {
