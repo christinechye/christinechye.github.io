@@ -5,7 +5,7 @@ html, body {
 body {
 	margin: 0px;
 	padding: 0px;
-	background: #A80154;
+	background: rgb(172, 74, 87); /* primary */
 	font-family: 'Chivo', sans-serif;
 	font-size: 12pt;
 	font-weight: 500;
