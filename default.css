@@ -8,7 +8,7 @@ body {
 	background: #A80154;
 	font-family: 'Chivo', sans-serif;
 	font-size: 12pt;
-	font-weight: 300;
+	font-weight: 400;
 	color: #363636;
 }
 
@@ -564,7 +564,7 @@ hr {
 		font-size:1em;
 		color: #B1B1B1;
 	}
-/* 	
+	
 	#box1
 	{
 		float: left;
@@ -580,13 +580,13 @@ hr {
 		margin-left: 24px;
 		padding-right: 30px;
 	} 
-*/
+
 	
 	#box3
 	{
-		/* float: none; */
-		align-items: center;
-		justify-content: center;
+		float: right;
+		/* align-items: center;
+		justify-content: center; */
 		width: 344px;
 		padding-left: 40px;
 	}
