@@ -576,7 +576,9 @@ hr {
 	
 	#box3
 	{
-		float: none;
+		/* float: none; */
+		align-items: center;
+		justify-content: center;
 		width: 344px;
 		padding-left: 40px;
 	}
