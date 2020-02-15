@@ -332,6 +332,7 @@ nav {
 	font-size: 1.0em;
 	line-height: 50px;
 	border: none;
+	justify-content: space-between;
 }
 
 #menu a:hover { 
