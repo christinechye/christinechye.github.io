@@ -282,7 +282,7 @@ hr {
 	#banner 
 	{
 		overflow: hidden;
-		height: 330px;
+		height: 400px;
 		background: url(images/pic01.jpg) no-repeat center;
 		background-size: cover;
 	}
