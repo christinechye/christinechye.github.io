@@ -308,7 +308,6 @@ hr {
 #menu-wrapper
 {
 	background-color: rgb(172, 74, 87); /*primary color*/
-	overflow: hidden;
 }
 
 #menu {
@@ -316,6 +315,7 @@ hr {
 	display: flex;
 	justify-content: space-between;
 	flex-direction: row;
+	overflow: hidden;
 }
 
 #menu ul {
