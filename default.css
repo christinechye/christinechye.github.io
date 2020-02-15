@@ -376,7 +376,7 @@ nav {
 	#sidebar
 	{
 		float: left;
-		width: 345px;
+		/* width: 345px; */
 		overflow: hidden;
 	}
 	
@@ -385,9 +385,15 @@ nav {
 		font-size: 1.6em;
 	}
 	
-	#sidebar .box1
+	/* #sidebar .box1
 	{
 		margin-bottom: 3em;
+	} */
+
+	#sidebar ul { 
+		margin: 0;
+		padding: 0;
+		list-style: none;
 	}
 
 
@@ -589,14 +595,13 @@ nav {
 		padding-right: 30px;
 	}
 	
-	#box2
+	/* #box2
 	{
 		float: left;
 		width: 354px;
 		margin-left: 24px;
 		padding-right: 30px;
-	} 
-
+	}  */
 	
 	#box3
 	{
