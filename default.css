@@ -300,7 +300,6 @@ hr {
 }
 
 #menu {
-	/* overflow: hidden; */
 	height: 100px;
 	display: flex;
 	justify-content: space-between;
@@ -308,11 +307,6 @@ hr {
 }
 
 #menu ul {
-	/* margin: 0;
-	padding: 0px 0px 0px 0px;
-	list-style: none;
-	line-height: normal;
-	text-align: center; */
 	display: flex;
 	list-style-type: none;
 	margin: 0;
@@ -322,7 +316,6 @@ hr {
 }
 
 #menu li {
-	/* display: inline-block; */
 	display: flex;
 	justify-content: space-between;
 	flex-direction: row;
@@ -337,7 +330,7 @@ hr {
 	text-transform: uppercase;
 	font-size: 1.0em;
 	font-weight: bold;
-	line-height: 100px;
+	line-height: 50px;
 	border: none;
 	color: #FFF;
 }
