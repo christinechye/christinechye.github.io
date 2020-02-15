@@ -290,17 +290,17 @@ hr {
 /* Banner                                                                        */
 /*********************************************************************************/
 
-	#banner 
-	{
-		overflow: hidden;
-		height: 330px;
-		background: url(images/pic01.jpg) no-repeat center;
-		background-size: cover;
-	}
-	
-	#banner .image
-	{
-	}
+#banner 
+{
+	overflow: hidden;
+	height: 330px;
+	background: url(images/pic01.jpg) no-repeat center;
+	background-size: cover;
+}
+
+#banner .image
+{
+}
 	
 
 /** MENU */
@@ -315,7 +315,8 @@ hr {
 	display: flex;
 	justify-content: space-between;
 	flex-direction: row;
-	overflow: hidden;
+	/* overflow: hidden; */
+	position: fixed;
 }
 
 #menu ul {
@@ -323,8 +324,9 @@ hr {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
-	overflow: hidden;
+	/* overflow: hidden; */
 	flex-direction: row;
+	position: absolute;
 }
 
 #menu li {
