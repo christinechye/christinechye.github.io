@@ -366,7 +366,7 @@ nav {
 {
 	width: 75%;
 	float: right;
-	padding: 20px;
+	/* padding: 20px; */
 }
 
 /*********************************************************************************/
@@ -378,7 +378,7 @@ nav {
 	{
 		width: 25%;
 		float: left;
-		padding: 20px;
+		/* padding: 20px; */
 	}
 	
 	#sidebar .title h2
