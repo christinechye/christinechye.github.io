@@ -354,9 +354,12 @@ nav {
 
 #content
 {
-	width: 75%;
+	/* width: 75%;
 	float: right;
-	padding: 10px;
+	padding: 10px; */
+
+	float: right;
+	width: 790px;
 }
 
 /*********************************************************************************/
@@ -366,9 +369,12 @@ nav {
 
 	#sidebar
 	{
-		width: 25%;
+		/* width: 25%;
 		float: left;
-		padding: 10px;
+		padding: 10px; */
+
+		float: left;
+		width: 345px;
 	}
 	
 	#sidebar .title h2
