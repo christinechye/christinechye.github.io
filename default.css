@@ -1,11 +1,11 @@
 /***************************
 UNIVERSAL STYLING (EVERYTHING)
 ***************************/
-/* * { 
+* { 
 	box-sizing: content-box;
 	margin: 0;
 	padding: 0;
-} */
+}
 
 html, body {
 	height: 100%;
@@ -321,7 +321,6 @@ nav {
 	flex-direction: row;
 	line-height: normal;
 	text-align: center;
-	justify-content: center;
 }
 
 #menu li {
@@ -339,8 +338,6 @@ nav {
 	line-height: 100px;
 	border: none;
 	color: #FFF;
-	justify-content: center;
-
 }
 
 #menu a:hover { 
@@ -366,7 +363,7 @@ nav {
 {
 	width: 75%;
 	float: right;
-	padding: 5px;
+	padding: 10px;
 }
 
 /*********************************************************************************/
@@ -378,7 +375,7 @@ nav {
 	{
 		width: 25%;
 		float: left;
-		padding: 5px;
+		padding: 10px;
 	}
 	
 	#sidebar .title h2
