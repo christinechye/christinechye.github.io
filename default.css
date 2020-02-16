@@ -354,10 +354,8 @@ nav {
 
 #page
 {
-	/* position: relative; */
 	overflow: hidden;
 	padding: 20px;
-	/* padding: 6em 0em 5em 0em; */
 	display: flex;
 	/* flex-direction: row; */
 	/* justify-content: center; */
@@ -369,12 +367,11 @@ nav {
 
 #content
 {
-
 	float: right;
 	width: 75%;
-	padding: 5px;
+	padding: 10px;
 	justify-content: center;
-
+	text-align: center;
 }
 
 /*********************************************************************************/
@@ -384,9 +381,9 @@ nav {
 	#sidebar
 	{
 		float: left;
-		/* width: 345px; */
 		width: 25%;
 		overflow: hidden;
+		padding: 10px;
 
 	}
 	
