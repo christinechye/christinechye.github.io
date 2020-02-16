@@ -515,16 +515,20 @@ nav {
 		color: #FFF;
 	}
 	
-		.button:before
-		{
-			display: inline-block;
-			width: 40px;
-			height: 40px;
-			line-height: 40px;
-			border-radius: 20px;
-			text-align: center;
-			color: #FFF;
-		}
+	.button:before
+	{
+		display: inline-block;
+		width: 40px;
+		height: 40px;
+		line-height: 40px;
+		border-radius: 20px;
+		text-align: center;
+		color: #FFF;
+	}
+
+	.button:hover {
+		background-color: rgb(173, 40, 58);
+	}
 
 /*********************************************************************************/
 /* Footer                                                                        */
