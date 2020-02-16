@@ -456,7 +456,7 @@ nav {
 	#portfolio
 	{
 		overflow: hidden;
-		justify-content: space-evenly;
+		justify-content: center;
 	}
 	
 	#portfolio .title h2
