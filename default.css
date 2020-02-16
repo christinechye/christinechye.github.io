@@ -378,7 +378,7 @@ nav {
 /* Sidebar                                                                       */
 /*********************************************************************************/
 
-	#sidebar
+	/* #sidebar
 	{
 		float: left;
 		width: 25%;
@@ -391,11 +391,6 @@ nav {
 	{
 		font-size: 1.6em;
 	}
-	
-	/* #sidebar .box1
-	{
-		margin-bottom: 3em;
-	} */
 
 	#sidebar ul { 
 		margin: 0 0 2em 0;
@@ -407,6 +402,17 @@ nav {
 		line-height: 12px;
 		border: none;
 		justify-content: space-between;
+	} */
+
+	#sidebar
+	{
+		float: left;
+		width: 25%;
+	}
+	
+	#sidebar .title h2
+	{
+		font-size: 1.6em;
 	}
 
 
@@ -613,13 +619,13 @@ nav {
 		padding-right: 30px;
 	}
 	
-	/* #box2
+	#box2
 	{
 		float: left;
-		width: 354px;
+		width: 25%;
 		margin-left: 24px;
 		padding-right: 30px;
-	}  */
+	} 
 	
 	#box3
 	{
