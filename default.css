@@ -211,10 +211,10 @@ hr {
 	overflow: hidden;
 }
 
-.container {
+/* .container {
 	width: 100%; 
 	margin: 0px auto; 
-}
+} */
 
 .clearfix {
 	clear: both;
@@ -352,6 +352,7 @@ nav {
 {
 	width: 75%;
 	float: right;
+	padding: 10px;
 }
 
 /*********************************************************************************/
@@ -363,6 +364,7 @@ nav {
 	{
 		width: 25%;
 		float: left;
+		padding: 10px;
 	}
 	
 	#sidebar .title h2
