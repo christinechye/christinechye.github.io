@@ -592,16 +592,9 @@ nav {
 	
 	#box2
 	{
-		/* float: left;
-		width: 25%;
-		margin-left: 24px;
-		padding-right: 30px; */
-
 		float: left;
-		/* width: 354px; */
-		/* width: 25%; */
-		margin-left: 24px;
-		padding-right: 30px;
+		/* margin-left: 24px;
+		padding-right: 30px; */
 	} 
 	
 	#box3
