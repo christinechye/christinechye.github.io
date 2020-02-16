@@ -308,7 +308,7 @@ hr {
 nav { 
 	background-color: rgb(172, 74, 87);
 	display: flex;
-	justify-content: space-between;
+	justify-content: center;
 	flex-direction: row;
 }
 
