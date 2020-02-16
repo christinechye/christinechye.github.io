@@ -327,10 +327,7 @@ nav {
 	display: inline-block;
 }
 
-#menu a { 
-	font-size: 1.0em;
-
-	
+#menu a { 	
 	display: block;
 	letter-spacing: 1px;
 	padding: 0px 40px;
@@ -338,7 +335,7 @@ nav {
 	text-align: center;
 	text-transform: uppercase;
 	font-size: 1em;
-	line-height: 100px;
+	line-height: 70px;
 	border: none;
 	color: #FFF;
 
