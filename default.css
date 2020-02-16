@@ -366,9 +366,9 @@ nav {
 {
 	float: right;
 	width: 75%;
-	/* padding: 10px;
-	justify-content: center;
-	text-align: center; */
+	padding: 10px;
+	/* justify-content: center;
+	text-align: center; */ 
 }
 
 /*********************************************************************************/
@@ -380,6 +380,7 @@ nav {
 	{
 		float: left;
 		width: 25%;
+		padding: 10px;
 	}
 	
 	#sidebar .title h2
