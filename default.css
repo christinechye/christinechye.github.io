@@ -212,6 +212,7 @@ hr {
 
 #wrapper {
 	background: #FFFFFF url(images/bg01.png) repeat;
+	justify-content: space-between;
 }
 
 #footer-wrapper
