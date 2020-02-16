@@ -345,6 +345,14 @@ nav {
 	padding: 20px;
 }
 
+#page1
+{
+	display: flex;
+	justify-content: center;
+	/* flex-direction: row; */
+	padding: 20px;
+}
+
 /** CONTENT */
 
 #content
