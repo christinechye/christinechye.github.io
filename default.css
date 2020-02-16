@@ -364,11 +364,9 @@ nav {
 
 #content
 {
-	/* float: right;
 	width: 75%;
-	padding-right: 20px; */
 	float: right;
-	width: 790px;
+	/* width: 790px; */
 }
 
 /*********************************************************************************/
@@ -378,11 +376,9 @@ nav {
 
 	#sidebar
 	{
-		/* float: left;
 		width: 25%;
-		padding-left: 20px; */
 		float: left;
-		width: 345px;
+		/* width: 345px; */
 	}
 	
 	#sidebar .title h2
