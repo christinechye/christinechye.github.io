@@ -581,6 +581,7 @@ nav {
 	#box2
 	{
 		float: left;
+		padding: 10px;
 		/* margin-left: 24px;
 		padding-right: 30px; */
 	} 
