@@ -158,10 +158,10 @@ hr {
 	{
 		display: inline-block;
 		background: #3f3f3f;
-		width: 40px;
-		height: 40px;
-		line-height: 40px;
-		border-radius: 20px;
+		/* width: 40px; */
+		height: 20px;
+		line-height: 20px;
+		/* border-radius: 20px; */
 		text-align: center;
 		color: #FFFFFF;
 	}
@@ -539,6 +539,7 @@ nav {
 	{
 		padding: 5em 0em;
 		background: #1E1B1A;
+		justify-content: center;
 	}
 
 	#footer
