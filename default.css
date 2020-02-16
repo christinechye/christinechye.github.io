@@ -361,7 +361,7 @@ nav {
 	display: flex;
 	/* flex-direction: row; */
 	/* justify-content: center; */
-	text-align: center;
+	/* text-align: center; */
 	justify-content: space-between;
 }
 
@@ -372,10 +372,7 @@ nav {
 
 	float: right;
 	width: 75%;
-	/* width: 790px; */
 	padding: 5px;
-	/* overflow: hidden;
-	display: flex; */
 	justify-content: center;
 
 }
