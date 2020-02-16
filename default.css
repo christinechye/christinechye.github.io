@@ -212,7 +212,6 @@ hr {
 
 #wrapper {
 	background: #FFFFFF url(images/bg01.png) repeat;
-	justify-content: space-between;
 }
 
 #footer-wrapper
@@ -361,8 +360,9 @@ nav {
 	padding: 6em 0em 5em 0em;
 	display: flex;
 	/* flex-direction: row; */
-	justify-content: center;
+	/* justify-content: center; */
 	text-align: center;
+	justify-content: space-between;
 }
 
 /** CONTENT */
@@ -376,6 +376,7 @@ nav {
 	padding: 5px;
 	/* overflow: hidden;
 	display: flex; */
+	justify-content: center;
 
 }
 
