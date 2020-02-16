@@ -593,8 +593,8 @@ nav {
 	#box2
 	{
 		float: left;
-		/* margin-left: 24px;
-		padding-right: 30px; */
+		margin-left: 24px;
+		padding-right: 30px;
 	} 
 	
 	#box3
