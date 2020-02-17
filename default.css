@@ -348,6 +348,12 @@ nav {
 	padding: 20px;
 }
 
+#block { 
+	display: flex;
+	justify-content: center;
+	padding: 20px;
+}
+
 /** CONTENT */
 
 #content
