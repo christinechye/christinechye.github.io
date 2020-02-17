@@ -242,8 +242,8 @@ hr {
 
 .container1 { 
 	padding: 50px;
-	display: flex;
-	
+	/* display: flex; */
+
 	/* padding-left: 50px;
 	padding-right: 50px;  */
 }
