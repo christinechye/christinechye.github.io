@@ -229,13 +229,13 @@ hr {
 	overflow: hidden;
 }
 
-.container  #block{
+/* .container  #block{
 	display: flex;
 	justify-content: flex-start;
 	padding: 20px;
 	width: 100%; 
 	margin: 0px auto; 
-}
+} */
 
 .clearfix {
 	clear: both;
