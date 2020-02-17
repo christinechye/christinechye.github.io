@@ -231,11 +231,11 @@ hr {
 	clear: both;
 }
 
-.container1 { 
-	/* display: flex;
-	justify-content: center; */
+/* .container1 { 
+	display: flex;
+	justify-content: center;
 	padding: 20px;
-}
+} */
 
 
 /*********************************************************************************/
@@ -361,12 +361,12 @@ nav {
 	flex-direction: row;
 	padding: 20px;
 }
-
+/* 
 #block { 
-	/* display: flex;
-	justify-content: center; */
+	display: flex;
+	justify-content: center;
 	padding: 20px;
-}
+} */
 
 /** CONTENT */
 
