@@ -41,6 +41,10 @@ a img {
 	border: none;
 }
 
+.image1 { 
+	display: block;
+	margin: 0 0 2em 0;
+}
 	.image
 	{
 		display: inline-block;
