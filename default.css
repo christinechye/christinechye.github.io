@@ -229,24 +229,24 @@ hr {
 	overflow: hidden;
 }
 
-/* .container  #block{
+.container {
 	display: flex;
-	justify-content: flex-start;
+	justify-content: center;
 	padding: 20px;
 	width: 100%; 
 	margin: 0px auto; 
-} */
+}
 
 .clearfix {
 	clear: both;
 }
 
-.container1 { 
+/* .container1 { 
 	overflow: hidden;
 	display: flex;
 	flex-direction: row;
 	padding: 50px;
-}
+} */
 
 
 /*********************************************************************************/
