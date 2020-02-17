@@ -242,6 +242,8 @@ hr {
 
 .container1 { 
 	padding: 50px;
+	display: flex;
+	
 	/* padding-left: 50px;
 	padding-right: 50px;  */
 }
@@ -370,11 +372,11 @@ nav {
 	flex-direction: row;
 	padding: 20px;
 }
-/* 
+
 #block { 
-	display: flex;
+	/* display: flex; */
 	padding: 20px;
-}  */
+}  
 
 /** CONTENT */
 
