@@ -207,7 +207,7 @@ hr {
 		margin-bottom: 2em;
 		text-transform: uppercase;
 		text-align: center;
-		padding: 10px;
+		padding: 50px;
 	}
 	
 	h3 {
@@ -245,8 +245,6 @@ hr {
 	overflow: hidden;
 	display: flex;
 	flex-direction: row;
-	justify-content: center;
-	text-align: center;
 	padding: 50px;
 }
 
@@ -378,6 +376,7 @@ nav {
 #block { 
 	/* display: flex; */
 	padding: 20px;
+	overflow: hidden;
 }  
 
 /** CONTENT */
