@@ -229,7 +229,7 @@ hr {
 	overflow: hidden;
 }
 
-.container {
+.container  #block{
 	display: flex;
 	justify-content: flex-start;
 	padding: 20px;
