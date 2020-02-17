@@ -199,6 +199,14 @@ hr {
 		color: #6F6F6F;
 	}
 
+	.title1 h3 { 
+		margin-bottom: 2em;
+		text-transform: uppercase;
+		font-weight: 400;
+		font-size: 2em;
+		color: #B10058;
+	}
+
 /** WRAPPER */
 
 #wrapper {
@@ -224,8 +232,8 @@ hr {
 }
 
 .container1 { 
-	display: flex;
-	justify-content: center;
+	/* display: flex;
+	justify-content: center; */
 	padding: 20px;
 }
 
@@ -355,8 +363,8 @@ nav {
 }
 
 #block { 
-	display: flex;
-	justify-content: center;
+	/* display: flex;
+	justify-content: center; */
 	padding: 20px;
 }
 
