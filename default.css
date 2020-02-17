@@ -231,7 +231,7 @@ hr {
 
 .container {
 	display: flex;
-	justify-content: center;
+	justify-content: flex-start;
 	padding: 20px;
 	width: 100%; 
 	margin: 0px auto; 
