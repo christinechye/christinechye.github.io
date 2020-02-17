@@ -204,6 +204,8 @@ hr {
 	}
 
 	.title1 { 
+		margin-bottom: 2em;
+		text-transform: uppercase;
 		text-align: center;
 	}
 	
@@ -239,9 +241,9 @@ hr {
 }
 
 .container1 { 
-	/* padding: 50px;
+	/* padding: 50px;*/
 	padding-left: 50px;
-	padding-right: 50px; */
+	padding-right: 50px; 
 }
 
 
