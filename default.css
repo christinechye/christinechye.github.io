@@ -223,6 +223,12 @@ hr {
 	clear: both;
 }
 
+.container1 { 
+	display: flex;
+	justify-content: center;
+	padding: 20px;
+}
+
 
 /*********************************************************************************/
 /* Wrappers                                                                      */
