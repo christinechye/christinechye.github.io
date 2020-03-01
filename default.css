@@ -384,10 +384,10 @@ nav {
 	display: flex;
 	flex-direction: column; */
 
-	display: flex;
+	/* display: flex; */
 	/* justify-content: center; */
 	/* flex-direction: row; */
-	padding: 50px; 
+	/* padding: 50px;  */
 }   
 
 /** CONTENT */
