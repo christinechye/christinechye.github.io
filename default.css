@@ -250,7 +250,7 @@ hr {
 	display: flex;
 	justify-content: center;
 	flex-direction: row;
-	padding: 20px;
+	/* padding: 20px; */
 	padding-left: 50px;
 	padding-right: 50px;
 	padding-bottom: 50px;
