@@ -244,7 +244,7 @@ hr {
 .container1 { 
 	overflow: hidden;
 	display: flex;
-	flex-direction: row;
+	/*flex-direction: row;*/
 	padding: 50px;
 } 
 
