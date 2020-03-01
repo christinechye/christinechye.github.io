@@ -207,7 +207,7 @@ hr {
 		margin-bottom: 2em;
 		text-transform: uppercase;
 		text-align: center;
-		/* padding: 50px; */
+		padding: 50px;
 	}
 	
 	h3 {
@@ -245,7 +245,10 @@ hr {
 	display: flex;
 	justify-content: center;
 	flex-direction: row;
-	padding: 50px;  
+	width: 100%; 
+	margin: 0px auto; 
+
+	/* padding: 50px;   */
 } 
 
 
