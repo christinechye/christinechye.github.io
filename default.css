@@ -377,11 +377,13 @@ nav {
 	flex-direction: row;
 	padding: 20px;
 }
-/* 
+ 
 #block { 
-	padding: 20px;
+	/* padding: 20px; */
 	overflow: hidden;
-}   */
+	display: flex;
+	flex-direction: column;
+}   
 
 /** CONTENT */
 
