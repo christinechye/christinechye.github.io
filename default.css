@@ -242,16 +242,10 @@ hr {
 }
 
 .container1 { 
-	/* overflow: hidden; 
-	display: flex; 
-	flex-direction: row;
-	padding: 50px; */
-
 	display: flex;
 	justify-content: center;
 	flex-direction: row;
 	padding: 50px;  
-
 } 
 
 
@@ -384,10 +378,10 @@ nav {
 	display: flex;
 	flex-direction: column; */
 
-	/* display: flex; */
-	/* justify-content: center; */
+	display: flex; 
+	justify-content: center; 
 	/* flex-direction: row; */
-	/* padding: 50px;  */
+	padding: 50px;  
 }   
 
 /** CONTENT */
