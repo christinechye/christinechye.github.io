@@ -385,7 +385,7 @@ nav {
 	flex-direction: column; */
 
 	display: flex;
-	justify-content: center;
+	/* justify-content: center; */
 	/* flex-direction: row; */
 	padding: 50px; 
 }   
