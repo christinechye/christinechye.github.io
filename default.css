@@ -648,6 +648,12 @@ nav {
 		/* padding-left: 40px; */
 	}
 
+	div.projects 
+	{
+		display: flex;
+		flex-direction: row;
+		justify-content: center;
+	}
 
 
 
