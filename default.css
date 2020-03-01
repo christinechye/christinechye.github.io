@@ -86,8 +86,10 @@ hr {
 }
 
 .pics { 
-	display: flex;
-	flex-direction: column;
+	display: block;
+	margin: 0 0 2em 0;
+	/* width: 50%;
+	height:  */
 }
 
 
