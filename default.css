@@ -378,8 +378,8 @@ nav {
 	display: flex;
 	flex-direction: column; */
 
-	display: flex; 
-	justify-content: center; 
+	/* display: flex;  */
+	/* justify-content: center;  */
 	/* flex-direction: row; */
 	padding: 50px;  
 }   
