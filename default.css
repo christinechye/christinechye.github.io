@@ -425,7 +425,7 @@ nav {
 
 	#copyright
 	{
-		/* overflow: hidden; */
+		overflow: hidden; 
 		padding: 5em 0em;
 		text-align: center;
 
