@@ -247,10 +247,10 @@ hr {
 	flex-direction: row;
 	padding: 50px; */
 
-	/* display: flex;
+	display: flex;
 	justify-content: center;
 	flex-direction: row;
-	padding: 50px;  */
+	padding: 50px;  
 
 } 
 
@@ -386,7 +386,7 @@ nav {
 
 	display: flex;
 	justify-content: center;
-	flex-direction: row;
+	/* flex-direction: row; */
 	padding: 50px; 
 }   
 
