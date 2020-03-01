@@ -242,7 +242,7 @@ hr {
 }
 
 .container1 { 
-	overflow: hidden;
+	/*overflow: hidden; */
 	/*display: flex; */
 	/*flex-direction: row;*/
 	padding: 50px;
