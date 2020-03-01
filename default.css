@@ -379,7 +379,7 @@ nav {
 }
  
 #block { 
-	/* padding: 20px; */
+	padding: 20px; 
 	overflow: hidden;
 	display: flex;
 	flex-direction: column;
