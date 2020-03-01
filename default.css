@@ -85,6 +85,11 @@ hr {
 	display: none;
 }
 
+.pics { 
+	display: flex;
+	flex-direction: column;
+}
+
 
 /*********************************************************************************/
 /* List Styles                                                                   */
