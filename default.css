@@ -247,7 +247,6 @@ hr {
 	flex-direction: row;
 	width: 100%; 
 	margin: 0px auto; 
-	padding: 50px;  
 } 
 
 
@@ -376,10 +375,6 @@ nav {
 }
  
 #block { 
-	/* overflow: hidden;
-	display: flex;
-	flex-direction: column; */
-
 	/* display: flex;  */
 	/* justify-content: center;  */
 	/* flex-direction: row; */
