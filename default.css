@@ -644,10 +644,10 @@ nav {
 			z-index: 100;
 		}
 		.slider img {
-			max-width:600px;
-			width:700px;
-			position:relative;
-			padding-left: 15vh;
+			/* max-width:600px;
+			width:700px; */
+			/* position:relative; */
+			padding-left: 10vh;
 		}
 
 /*********************************************************************************/
